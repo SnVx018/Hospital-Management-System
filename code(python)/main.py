@@ -1,12 +1,6 @@
-import mysql.connector
-mydb=mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="Xha34gtoi90laCm",
-    database="hospital_system",
-    autocommit=True
+
     
-)
+
 from func_library import *
 
 
